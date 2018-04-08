@@ -17,6 +17,8 @@ title: Abeen Bhattacharya
 email: abeen9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Site made by Abeen.
+
+  This site is currently under maintanence,
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.abeenbhattacharya.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: awaitforitbeen
