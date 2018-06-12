@@ -23,7 +23,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.abeenbhattacharya.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: awaitforitbeen
 github_username: thenotsodarkknight
-
+favicon:
+  source: favicon.ico
+  path: /assets/img
 # Build settings
 markdown: kramdown
 theme: minima
