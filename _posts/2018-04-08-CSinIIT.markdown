@@ -2,7 +2,7 @@
 layout: post
 title:  "CS Opportunities at IIT Bombay"
 date:   2018-06-12 13:29:48 +0530
-categories: jekyll update
+categories: iitbombay
 ---
 This is an article enlisting a number of opportunities in Computer Science you could pursue as an undergraduate at IIT Bombay. It **does not** talk about career paths in Computer Science *after* graduating, rather focusses on what you **can do** *while you are* an undergraduate at IIT Bombay.
 
