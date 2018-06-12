@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Hi. This is [Abeen Bhattacharya.](https://www.facebook.com/profile.php?id=100000338522650&ref=br_rs)
+This page is a semi-blog written by me, on probably various things that I feel are important to be discussed about.
 
-This site is currently under maintenance.
+For any information, ping me.
