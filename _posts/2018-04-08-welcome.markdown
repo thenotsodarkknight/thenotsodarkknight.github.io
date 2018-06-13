@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to this Webpage"
 date:   2018-04-08 13:29:48 +0530
-categories: random
+categories: jekyll update
 ---
 # Hi. This is [Abeen Bhattacharya.](https://www.facebook.com/profile.php?id=100000338522650&ref=br_rs)
 
