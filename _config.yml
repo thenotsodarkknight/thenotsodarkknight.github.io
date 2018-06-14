@@ -16,7 +16,7 @@ baseurl:
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-120855735-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -55,8 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Lets put a smile on your face."
-  - text: "Why So Serious?"
+  - text: "Do not take life too seriously. You will never get out of it alive."
+  - text: "I found there was only one way to look thin: hang out with fat people."
+  - text: "Sometimes I wish I was an octopus, so I could slap eight people at once."
 
 me-img: "../img/abeen.png"
 
