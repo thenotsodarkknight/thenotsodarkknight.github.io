@@ -135,13 +135,16 @@ events:
   - image: "/img/timeline/iitb.jpeg"
     date: "July 2017 - Today"
     description: "Indian Institute of Technology Bombay"
+  - image: "/img/timeline/srjc.png"
+    date: "July 2016 - May 2017"
+    description: "Shubham Raje Junior College"  
   - image: "/img/timeline/hfst.JPG"
-    date: "July 2004 - May 2017"
+    date: "July 2004 - May 2016"
     description: "Hiranandani Foundation School"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/baby.jpg"
 
 ###########
 # Contact #
