@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Abeen Bhattacharya</title>
-		<description>Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine.</description>
+		<description>Semi-Blog of Abeen Bhattacharya. Currently under construction.</description>
 		<link>https://www.abeenbhattacharya.com</link>
 		<atom:link href="https://www.abeenbhattacharya.com/feed.xml" rel="self" type="application/rss+xml" />
 		

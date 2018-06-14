@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Abeen Bhattacharya"
 title: "Abeen Bhattacharya"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "Semi-Blog of Abeen Bhattacharya. Currently under construction."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Lets put a smile on your face."
+  - text: "Why So Serious?"
 
 me-img: "../img/abeen.png"
 
@@ -122,7 +122,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "thenotsodarkknight"
+disqus-shortname: 
 
 syntax-highlight: True
 
