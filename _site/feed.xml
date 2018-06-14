@@ -3,8 +3,8 @@
 	<channel>
 		<title>Abeen Bhattacharya</title>
 		<description>Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine.</description>
-		<link>https://www.abeenbhattacharya.com/test</link>
-		<atom:link href="https://www.abeenbhattacharya.com/test/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://www.abeenbhattacharya.com</link>
+		<atom:link href="https://www.abeenbhattacharya.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>CS Opportunities at IIT Bombay</title>
@@ -15,8 +15,8 @@
 </description>
 				
 				<pubDate>Thu, 14 Jun 2018 00:00:00 +0530</pubDate>
-				<link>https://www.abeenbhattacharya.com/test/iitbombay/2018/06/14/CSinIITB.html</link>
-				<guid isPermaLink="true">https://www.abeenbhattacharya.com/test/iitbombay/2018/06/14/CSinIITB.html</guid>
+				<link>https://www.abeenbhattacharya.com/iitbombay/2018/06/14/CSinIITB.html</link>
+				<guid isPermaLink="true">https://www.abeenbhattacharya.com/iitbombay/2018/06/14/CSinIITB.html</guid>
 			</item>
 		
 	</channel>
