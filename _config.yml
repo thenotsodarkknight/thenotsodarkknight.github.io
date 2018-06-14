@@ -141,6 +141,9 @@ events:
   - image: "/img/timeline/hfst.JPG"
     date: "July 2004 - May 2016"
     description: "Hiranandani Foundation School"
+  - image: "/img/timeline/ryan.jpeg"
+    date: "July 2002 - May 2004"
+    description: "Ryan International School"
 
 # First image of the Timeline
 
