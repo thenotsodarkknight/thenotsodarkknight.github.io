@@ -11,9 +11,9 @@ So, another year of the much-dreaded JEE is over, and a new set of kids will hav
 
 This article is not an answer to “kaunsa branch bhaiya?”, “IIT ka tag important hai kya?” or “Kaunse college ka hostel life sabse amazing hai”, nor is it a guide for picking colleges or branches.
 
-This article is just a reminder of the fact that whatever you choose to study for the next 3/4/5 years, make sure that it Is something you love, something you won’t end up despising the moment one tough course come along your way. Because if indeed you end up taking up something that you have no feelings for, you’d always have an excuse ready for screwing up every day, every hour, every second of the next 3/4/5 year - “I don’t even like this. Obviously, I won’t be good at it.”
+This article is just a reminder of the fact that whatever you choose to study for the next 3/4/5 years, make sure that it Is something you love, something you won’t end up despising the moment one tough course come along your way. Because if indeed you end up taking up something that you have no feelings for, you’d always have an excuse ready for screwing up every day, every hour, every second of the next 3/4/5 years - “I don’t even like this. Obviously, I won’t be good at it.”
 
-Because at the end of the day, no matter how bad everything around you is, you have that one thing you’re passionate about, that one thing you spent the last two years working your ass off to get, that one thing you chose to dedicate the upcoming years of your life to. I don’t get the people who brood all day about having to study what they hate. Because they had the choice - the choice to do what they loved. 
+Because at the end of the day, no matter how bad everything around you is, you would have that one thing you’re passionate about, that one thing you spent the last two years working your ass off to get, that one thing you chose to dedicate the upcoming years of your life to. I don’t get the people who brood all day about having to study what they hate. Because they had the choice - the choice to do what they loved. 
 
 Listen to what you want, and not some silly person stating “Isme scope hai”.  Because at the end of the day it is your life. It is YOU, and not that silly person, who has to finish your courses.
 
