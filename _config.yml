@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "../img/abeen.PNG"
+me-img: "../img/abeen.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -157,7 +157,7 @@ email: "me@abeenbhattacharya.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Abeen Bhattacharya is a Sophomore at IIT Bombay. His interests involves coding, music (Pop/Alternative Rock), gaming, tv-shows and movies, movie-making, editing, and designing."
-author_blurb_image: "/img/abeen.PNG"
+author_blurb_image: "/img/abeen.png"
 
 ##################
 # Social Buttons #
