@@ -19,7 +19,7 @@ Listen to what you want, and not some silly person stating “Isme scope hai”.
 
 It does not matter what a person of a similar rank to yours chose to do. You are different. And probably the only thing you’ll find similar to him/her too will be that rank, and nothing else. So, how can his/her decision be a guiding factor for your life choices?
 
-And if you feel you’re just doing something under parental pressure, remember that at the end of the day, all they want is the best of you. All the decisions they take are so that you’re making the most of the situation. So, even if they might have different plans for you just work it out amongst yourselves. It is most likely that they’ll go with your ideas, BUT don’t expect them to give up their plans immediately. They might not agree with you at first, but once they’re convinced that it’s what you want, they’ll support you more than you’d ever expected. So, some uncomfortable conversations or a lifetime of sadness? What do you pick?
+And if you feel you’re just doing something under parental pressure, remember that at the end of the day, all they want is the best of you. All the decisions they take are so that you’re making the most of the situation. So, even if they might have different plans for you just work it out amongst yourselves. BUT don’t expect them to give up their plans immediately. They might not agree with you at first, but once they’re convinced that it’s what you want, they’ll support you more than you’d ever expected. So, some uncomfortable conversations or a lifetime of sadness? What do you pick? 
 
 And if it’s peer pressure you’re concerned with, they might not even be your peers after a year.
 
